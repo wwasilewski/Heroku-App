@@ -12,6 +12,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello World in my first Heroku App";
+        return "Naapadam NaBang";
     }
 }
